@@ -1,5 +1,5 @@
-# infra-terraform-kubernets-azure
-## Infra Kubernets
+# infra-terraform-kubernetes-azure
+## Infra Kubernetes
 
 ###Instruções em português
 
