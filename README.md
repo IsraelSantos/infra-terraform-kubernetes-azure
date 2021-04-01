@@ -43,7 +43,7 @@ app-password = < AD password >
 Execute "`$ terraform plan`" para verificar as alterações e "`$ terraform apply`" para aplicá-las na sua núvem Azure.
 
 ### Configurar kubectl
-Agora que provisionou seu cluster AKS, você precisa configurar o na sua máquina kubectl.
+Agora que provisionou seu cluster AKS, você precisa configurar na sua máquina kubectl.
 
 Primeiro inatale-o usando o Chocolatey se for no Windows ou apt em distribuições Linux Debian
 
